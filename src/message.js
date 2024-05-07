@@ -1,6 +1,6 @@
 function Message(props) {
     return(
-        <h1>Hello {props.name}</h1>
+        <h1>Hello I`m {props.name}, I`m 20 years old</h1>
     )
 }
 
